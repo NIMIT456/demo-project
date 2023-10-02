@@ -1,3 +1,4 @@
 # demo-project
 This is my first Git Repository.
-Author - Nimit Kumat
+<br>
+Author - Nimit Kumar
